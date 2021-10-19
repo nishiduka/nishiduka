@@ -1,4 +1,15 @@
-### Hi there 👋
+Hi, I'm Thomas. I am a Full-Stack Developer.
+
+🔭 Currently, I am working as ReactJS developer, but I already work with nodeJs(using express), React Native, PHP, and Docker.
+
+🌱 I'm currently learning Java and springboot.
+
+😀 I love learning new technologies and frameworks and new challenges.
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishiduka&count_private=true&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishiduka&count_private=true&show_icons=true&theme=tokyonight" height="180em"  />
+</div>
 
 <!--
 **nishiduka/nishiduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
