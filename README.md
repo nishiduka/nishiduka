@@ -4,7 +4,7 @@ Hi, I'm Thomas. I am a Full-Stack Developer.
 
 🌱 I'm currently learning Java and springboot.
 
-😀 I love learning new technologies and frameworks and new challenges.
+😀 I love learning new technologies and new challenges.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nishiduka&count_private=true&show_icons=true&theme=tokyonight" height="180em" />
