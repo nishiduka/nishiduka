@@ -1,10 +1,9 @@
-Hi, I'm Thomas. I am a Full-Stack Developer.
+Hi, I'm Thomas. I am a Full-Stack Developer Javascript.
 
-🔭 Currently, I am working as ReactJS developer, but I already work with nodeJs(using express), React Native, PHP, and Docker.
+🧰 Toolbox
 
-🌱 I'm currently learning Java and springboot.
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
 
-😀 I love learning new technologies and new challenges.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nishiduka&count_private=true&show_icons=true&theme=tokyonight" height="180em" />
